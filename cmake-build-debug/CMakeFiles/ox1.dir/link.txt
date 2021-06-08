@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/ox1.dir/main.cpp.o  -o ox1 
